@@ -1,0 +1,85 @@
+﻿body {
+   font-family:"Microsoft Sans Serif";
+    background-color: #e9e9e9;
+
+}
+
+
+#banner {
+    height: 75px;
+    width: 1349px;
+}
+/*nav*/
+#navigation {
+   
+     background-color: #ffffff;
+}
+td {
+    padding: 0;
+}
+td a {
+    text-decoration: none;
+}
+td a div {
+    padding: 4px;
+    vertical-align: middle;
+}
+table tr td div {
+    font-size: 11px;
+}
+table tr td div span {
+    background-image: url("http://localhost:5684/Image/Drop_icon.png");
+    background-repeat: no-repeat;
+    background-position: 4px center;
+    padding-left: 0;
+    padding-right: 20px;
+}
+.td_seperate div {
+    border: 1px solid blue;
+    height: 15px;
+    
+    
+}
+
+
+#content_area {
+    height: 750px;
+    width: 1349px;
+    background-color: #e9e9e9;
+}
+
+/*footer*/
+#footer {
+    color: white;   
+    width: 1349px;
+    height: 80px;
+    background-color: black;
+}
+
+.footer_copyright {
+    margin-left: 45%;
+   
+}
+.footer_mail_icon {
+   width: 25px;
+    margin-left: 530px;
+    float: left;
+}
+.footer_mail {
+    float: left;
+    margin-left: 5px;
+    margin-top: 4px;
+}
+.footer_phone_icon {
+    width: 25px;
+    float: left;
+    margin-left: 15px;
+   
+}
+.footer_phone {
+
+    float: left;
+    margin-left: 5px;
+    margin-top: 4px;
+}
+
